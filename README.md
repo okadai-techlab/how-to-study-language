@@ -14,6 +14,9 @@ CSS3入門 http://dotinstall.com/lessons/basic_css3_v2
 http://dotinstall.com/lessons/basic_chrome_dev_v2
 
 ### Ruby（Webサービス作成出来るようになりたい人向け）
+- まず初めにこれを読む  
+Rails Tutorial以前 - Web系エンジニア入門レベルを達成するには -  
+http://fkagami.hatenablog.com/entry/2015/05/13/193252  
 - ドットインストールで文法確認  
 http://dotinstall.com/lessons/basic_ruby_v2  
 - Rails TutorialでRubyOnRailsを学びながらWebを学ぶ  
