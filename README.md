@@ -26,4 +26,8 @@ http://railstutorial.jp/
 - サルでもわかるGit入門  
 http://www.backlog.jp/git-guide/  
 
-
+### Swift（iOS開発）
+- Start Developing iOS Apps (Swift)（英語）
+https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html
+- UI設計の基本事項
+https://developer.apple.com/jp/documentation/UserExperience/Conceptual/MobileHIG/BasicsPart/BasicsPart.html#//apple_ref/doc/uid/TP40006556-CH2-SW1
