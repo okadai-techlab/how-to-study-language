@@ -13,6 +13,13 @@ CSS3入門 http://dotinstall.com/lessons/basic_css3_v2
 - Chrome Developer Toolで確認の仕方を学ぶ  
 http://dotinstall.com/lessons/basic_chrome_dev_v2
 
+### JavaScript
+- ドットインストールで基礎確認
+http://dotinstall.com/lessons/basic_javascript_v2
+- 何か本1冊（・・・良いのあれば教えてほしい）
+- AJAX勉強する
+http://www.amazon.co.jp/dp/4873113105 （Head Rush AJAX・・・基礎的なAJAXを使えるようになる）
+
 ### Ruby（Webサービス作成出来るようになりたい人向け）
 - まず初めにこれを読む  
 Rails Tutorial以前 - Web系エンジニア入門レベルを達成するには -  
