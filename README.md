@@ -1,6 +1,45 @@
-# how-to-study-language
+# てくらぼの部室
 
-## 注意点
+## What's this
+みんなが自分のやっていること、作っているもの、勉強していることなどを共有する場所です！
+
+### マイルストーン
+現在**やっていること**、**やってみたいこと**を右のカラムのissueのところにある[milestone](https://github.com/okadai-techlab/how-to-study-language/milestones)から作成してくれい！:+1:
+
+ex.
+```
+[totz] 入門HTMLを1周する
+```
+
+### イシュー
+質問、困っていること、プライベートな悩み相談、好きな食べ物のアンケートなどは[issues](https://github.com/okadai-techlab/how-to-study-language/issues)にお気軽に！
+
+ex.
+```
+Ruby on Railsでこんなエラーが出て困ってます
+
+  ActiveRecord::StatementInvalid in BlogsController#index
+
+```
+
+### プルリクエスト
+オススメ書籍、動画なんかの[プルリクエスト](https://github.com/okadai-techlab/how-to-study-language/pulls)待ってるぜ！！何かあったらこのREADMEを編集しちゃってください :sunglasses:
+
+GitHubのプルリクエストまでのフローは[こちら](https://www.dropbox.com/s/uy7kxm91lj4fdq9/git-introduction.pdf?dl=0)や、他の記事とかはもっと参考になるものたくさんありますのでみてみてやってください！間違えても全然OKなので！笑
+
+### スラック
+日程などのお知らせ以外、おすすめTech系情報や雑談などは[Slack](https://slack.com/)でやる感じにしてこうかなと思います！インターン情報やエンジニア・デザーナー向けイベントなどの情報もどんどん共有していきたいなーと思ってるのでcheck it out!
+
+てくらぼのSlack Teamは[こちら](https://okadai-techlab.slack.com/)！招待いるかもだから僕に連絡してくれますと助かります！
+
+### それでは！
+
+Happy Coding! :sunny:
+
+
+## オススメ勉強方法！
+
+### 注意点
 読んでわかっても、しっかりコードを書いて血肉にならないと意味ないのでしっかり書いてってください！  
 あとわからないことがあればググりまくって、それでもわからなければわかりそうな人や一緒に勉強している人に聞いてください！  
 コピペ禁止！！  
