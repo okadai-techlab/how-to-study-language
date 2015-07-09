@@ -81,6 +81,7 @@ http://www.amazon.co.jp/gp/product/4873113652/
 http://www.amazon.co.jp/gp/product/4873112818/
 わかりやすくて根本的に初めて理解出来た本！
 - 実践ハイパフォーマンスMySQL
+http://www.amazon.co.jp/dp/4873116384
 MySQL依存だし、分厚いし初心者向けじゃないけど間違いなく便利！持っておくとプログラマーぽい:smile:
 
 ### Ruby（Webサービス作成出来るようになりたい人向け）
