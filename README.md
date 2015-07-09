@@ -59,6 +59,31 @@ http://dotinstall.com/lessons/basic_javascript_v2
 - AJAX勉強する
 http://www.amazon.co.jp/dp/4873113105 （Head Rush AJAX・・・基礎的なAJAXを使えるようになる）
 
+### PHP
+- 文法をしっかり
+(ドットインストールで概要を掴む→本でしっかり)
+- getやpostを通じてデータをやりとり(セキュリティもちょっと注意）
+- 何か作ってみる(掲示板とかちっちゃいTwitterとか)
+
+#### 今後の学習
+- 簡単なフレームワークを使ってget,post,ログイン機能など作る
+- javascriptを使ってみる、ドットインストール→本の流れは一緒
+- ajaxを触ってみる
+- sqlを学ぶ、概念が違うことに注意
+- サーバーを自分で作ってみる（さくらVPSを借りてapache、PHP、MySQL等を作ってみる）
+
+#### おすすめ本
+- 初めてのPHP＆MySQL
+http://www.amazon.co.jp/gp/product/4873113652/
+
+### SQL
+- 初めてのSQL
+http://www.amazon.co.jp/gp/product/4873112818/
+わかりやすくて根本的に初めて理解出来た本！
+- 実践ハイパフォーマンスMySQL
+http://www.amazon.co.jp/dp/4873116384
+MySQL依存だし、分厚いし初心者向けじゃないけど間違いなく便利！持っておくとプログラマーぽい:smile:
+
 ### Ruby（Webサービス作成出来るようになりたい人向け）
 - まず初めにこれを読む  
 Rails Tutorial以前 - Web系エンジニア入門レベルを達成するには -  
