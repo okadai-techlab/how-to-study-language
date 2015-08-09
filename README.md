@@ -95,7 +95,9 @@ http://railstutorial.jp/
 
 ### Git（早めに習得したほうが楽です！）
 - サルでもわかるGit入門  
-http://www.backlog.jp/git-guide/  
+http://www.backlog.jp/git-guide/ 
+- A successful Git branching model
+http://keijinsonyaban.blogspot.jp/2010/10/successful-git-branching-model.html
 
 ### Swift（iOS開発）
 - Start Developing iOS Apps (Swift)（英語）
