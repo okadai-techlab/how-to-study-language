@@ -55,7 +55,9 @@ http://dotinstall.com/lessons/basic_chrome_dev_v2
 ### JavaScript
 - ドットインストールで基礎確認
 http://dotinstall.com/lessons/basic_javascript_v2
-- 何か本1冊（・・・良いのあれば教えてほしい）
+- 何か本1冊  
+[初めてのJavaScript](http://www.amazon.co.jp/dp/487311425X)
+[JavaScript: The Good Parts ―「良いパーツ」によるベストプラクティス](http://www.amazon.co.jp/dp/4873113911)
 - AJAX勉強する
 http://www.amazon.co.jp/dp/4873113105 （Head Rush AJAX・・・基礎的なAJAXを使えるようになる）
 
