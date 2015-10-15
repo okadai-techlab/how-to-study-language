@@ -32,6 +32,10 @@ GitHubのプルリクエストまでのフローは[こちら](https://www.dropb
 
 てくらぼのSlack Teamは[こちら](https://okadai-techlab.slack.com/)！招待いるかもだから僕に連絡してくれますと助かります！
 
+### チーム作成
+てくらぼではチーム毎に勉強会を開催してます！今存在してるチーム一覧は[こちら](https://github.com/orgs/okadai-techlab/teams)！  
+また、**新しくチームを作成したい場合**は[こちら](create_team.md)を参考にチームを作ってください！！
+
 ### それでは！
 
 Happy Coding! :sunny:
