@@ -111,5 +111,8 @@ https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStart
 - UI設計の基本事項
 https://developer.apple.com/jp/documentation/UserExperience/Conceptual/MobileHIG/BasicsPart/BasicsPart.html#//apple_ref/doc/uid/TP40006556-CH2-SW1
 
+### Go
+- [A Tour of Go（一部日本語）](https://go-tour-jp.appspot.com/welcome/1)
+
 ### C# #
 - [未確認飛行C](http://ufcpp.net/)
